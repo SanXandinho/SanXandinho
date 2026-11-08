@@ -8,7 +8,7 @@
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,discord,ubuntu,windows"/>&nbsp;
 
-### Recent Projects
+### Recent Activity
 <!--START_SECTION:recent-->
 - [SanXandinho/SanXandinho](https://github.com/SanXandinho/SanXandinho)
 - [mytypy/Archivist](https://github.com/mytypy/Archivist)
