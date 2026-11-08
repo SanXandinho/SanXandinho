@@ -10,4 +10,6 @@
 
 ### Recent Projects
 <!--START_SECTION:recent-->
+- [SanXandinho/SanXandinho](https://github.com/SanXandinho/SanXandinho)
+- [mytypy/Archivist](https://github.com/mytypy/Archivist)
 <!--END_SECTION:recent-->
