@@ -7,3 +7,7 @@
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,discord,ubuntu,windows"/>&nbsp;
+
+## Recent Projects
+<!--START_SECTION:recent-->
+<!--END_SECTION:recent-->
