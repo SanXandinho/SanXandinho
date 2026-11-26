@@ -12,4 +12,5 @@
 <!--START_SECTION:recent-->
 - [SanXandinho/SanXandinho](https://github.com/SanXandinho/SanXandinho)
 - [mytypy/Archivist](https://github.com/mytypy/Archivist)
+- [sirius-leto-26/VisionPaint](https://github.com/sirius-leto-26/VisionPaint)
 <!--END_SECTION:recent-->
