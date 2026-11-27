@@ -8,7 +8,7 @@
 
 ### Recent Activity
 <!--START_SECTION:recent-->
-- [SanXandinho/SanXandinho](https://github.com/SanXandinho/SanXandinho)
-- [mytypy/Archivist](https://github.com/mytypy/Archivist)
-- [sirius-leto-26/VisionPaint](https://github.com/sirius-leto-26/VisionPaint)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanXandinho&repo=SanXandinho&theme=github_dark)](https://github.com/SanXandinho/SanXandinho)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mytypy&repo=Archivist&theme=github_dark)](https://github.com/mytypy/Archivist)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirius-leto-26&repo=VisionPaint&theme=github_dark)](https://github.com/sirius-leto-26/VisionPaint)
 <!--END_SECTION:recent-->
