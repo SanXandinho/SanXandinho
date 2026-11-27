@@ -36,7 +36,15 @@ for item in data["commitContributionsByRepository"] + data["pullRequestContribut
     r = item["repository"]
     repos[r["nameWithOwner"]] = r["url"]
 
-lines = [f"- [{name}]({url})" for name, url in repos.items()]
+def card(name_with_owner, repo_url):
+    owner, repo = name_with_owner.split("/", 1)
+    img = (
+        "https://github-readme-stats.vercel.app/api/pin/"
+        f"?username={owner}&repo={repo}&theme=github_dark"
+    )
+    return f'[![Readme Card]({img})]({repo_url})'
+
+lines = [card(name, url) for name, url in repos.items()]
 new_content = "\n".join(lines[:5]) if lines else "_No recent activity._"
 
 with open("README.md", "r", encoding="utf-8") as f:
