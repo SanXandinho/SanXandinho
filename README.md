@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&duration=4000&pause=200&color=ffffff&background=0D1117&center=true&vCenter=true&width=435&lines=Hi+there!;It's+SanXandinho!;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&duration=4000&pause=200&color=ffffff&background=0D1117&center=false&vCenter=true&width=400&height=25&lines=Hi+there!;It's+SanXandinho!;" alt="Typing SVG"/>
 
 ### Stack
 <img src="https://skillicons.dev/icons?i=py,docker,md,fastapi,flask"/>
